@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/CoderKumarS/my-portfolio.git/static/css/main.7c59694b.css",
+    "main.js": "/CoderKumarS/my-portfolio.git/static/js/main.64063e0a.js",
+    "static/js/787.128fc6e9.chunk.js": "/CoderKumarS/my-portfolio.git/static/js/787.128fc6e9.chunk.js",
+    "static/media/camera.png": "/CoderKumarS/my-portfolio.git/static/media/camera.bb5099368d2f192a5bdb.png",
+    "static/media/man.png": "/CoderKumarS/my-portfolio.git/static/media/man.fef78c0a91e55afe32bd.png",
+    "static/media/man-2.png": "/CoderKumarS/my-portfolio.git/static/media/man-2.653f2213a5925ce681a4.png",
+    "static/media/article-ph-1.png": "/CoderKumarS/my-portfolio.git/static/media/article-ph-1.076d08169ca03cdafd22.png",
+    "static/media/ph-1.png": "/CoderKumarS/my-portfolio.git/static/media/ph-1.38c801a0d80ec5423644.png",
+    "static/media/lady.png": "/CoderKumarS/my-portfolio.git/static/media/lady.42c2ee828b811947b6bf.png",
+    "static/media/brush.svg": "/CoderKumarS/my-portfolio.git/static/media/brush.a096f798c2e71a2f23f76ed1d9c2a29e.svg",
+    "index.html": "/CoderKumarS/my-portfolio.git/index.html",
+    "static/media/logo-2.svg": "/CoderKumarS/my-portfolio.git/static/media/logo-2.9fe58ee9236210bd6e1ac22eaa0ff2e0.svg",
+    "static/media/logo.svg": "/CoderKumarS/my-portfolio.git/static/media/logo.40ef111deb3f0f7ab71ff2bbf291e708.svg",
+    "static/media/map.svg": "/CoderKumarS/my-portfolio.git/static/media/map.b9cd3f0dd40d5bd48282f12059241b38.svg",
+    "static/media/phone-2.svg": "/CoderKumarS/my-portfolio.git/static/media/phone-2.79ac1e30a8628a9f03d1daaddd501259.svg",
+    "static/media/instagram.svg": "/CoderKumarS/my-portfolio.git/static/media/instagram.3863e3cb3fec38921b227f3e2a743fda.svg",
+    "static/media/pintrest.svg": "/CoderKumarS/my-portfolio.git/static/media/pintrest.59e8d2d127a1c16661caddfcde560301.svg",
+    "static/media/twitter.svg": "/CoderKumarS/my-portfolio.git/static/media/twitter.7ebf762d1c37aba052f99df4087ff244.svg",
+    "static/media/website.svg": "/CoderKumarS/my-portfolio.git/static/media/website.8cb00ad5a3cd3fef30180577e84a356d.svg",
+    "static/media/msg.svg": "/CoderKumarS/my-portfolio.git/static/media/msg.37b3788879e3b73db2fe80443250f1fc.svg",
+    "static/media/facebook.svg": "/CoderKumarS/my-portfolio.git/static/media/facebook.6f23941ffd77a10ad2d3f2b8fbd02a2c.svg",
+    "main.7c59694b.css.map": "/CoderKumarS/my-portfolio.git/static/css/main.7c59694b.css.map",
+    "main.64063e0a.js.map": "/CoderKumarS/my-portfolio.git/static/js/main.64063e0a.js.map",
+    "787.128fc6e9.chunk.js.map": "/CoderKumarS/my-portfolio.git/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c59694b.css",
+    "static/js/main.64063e0a.js"
+  ]
+}
